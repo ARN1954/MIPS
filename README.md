@@ -99,7 +99,7 @@ This example demonstrates basic arithmetic operations and the `jal` (jump and li
 
 **Example Output:**
 
-> **Note:** Replace `output/example1_output.png` with the actual output of the program if run in a simulator or on actual hardware. Include an image if possible.
+
 
 ![Example 1 Output](output/eg_1_output.png)
 
@@ -123,7 +123,7 @@ This example demonstrates more basic arithmetic operations.
 
 **Example Output:**
 
-> **Note:** Replace `output/example2_output.png` with the actual output of the program if run in a simulator or on actual hardware. Include an image if possible.
+
 
 ![Example 2 Output](output/eg_2_output.png)
 
@@ -148,6 +148,6 @@ This example demonstrates conditional branching using `beq` (branch if equal) in
 
 **Example Output:**
 
-> **Note:** Replace `output/example3_output.png` with the actual output of the program if run in a simulator or on actual hardware. Include an image if possible.
+
 
 ![Example 3 Output](output/eg_3_output.png)
